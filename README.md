@@ -8,10 +8,11 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1. Form the Augmented Matrix
+2. Forward Elimination
+3. Backward Elimination (Row Reduction)
+4.  Interpret the Results
+
 
 ## Program:
 ```
